@@ -1,0 +1,22 @@
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe.config
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.pdb
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.AssemblyReference.cache
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form1.resources
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.GenerateResource.cache
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.exe
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.pdb
+D:\Trabalhos\Programação\C#\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form2.resources
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe.config
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.pdb
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.AssemblyReference.cache
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form1.resources
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form2.resources
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.GenerateResource.cache
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.CoreCompileInputs.cache
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.exe
+E:\14400\Programação\2P\JOGOS\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.pdb
